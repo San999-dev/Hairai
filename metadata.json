@@ -1,0 +1,6 @@
+{
+  "name": "HairAI",
+  "description": "Premium AI-powered hair care diagnosis, custom reports, product recommender, and expert chat assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
